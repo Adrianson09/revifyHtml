@@ -1,0 +1,25 @@
+
+@font-face {
+    font-family: 'Authenia';
+    src: url('Authenia_regular.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'ClarityCity';
+    src: url('ClarityCity-Regular.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+body {
+    font-family: 'ClarityCity', sans-serif; /* Aplica 'ClarityCity' al body */
+  }
+ .revolucionar {
+    font-family: 'Authenia', serif;
+
+  }
+ .heading-text{
+    font-family: 'ClarityCity', sans-serif; /* Aplica 'ClarityCity' al body */
+
+  }
